@@ -4,7 +4,7 @@ FROM node:20
 USER node
 
 
-RUN git clone https://github.com/boru-to/KATAKURI_MD home/node/blue
+RUN https://github.com/boru-to/KATAKURI_MD.git
 
 
 WORKDIR /home/node/blue
