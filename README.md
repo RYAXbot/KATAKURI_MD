@@ -1,6 +1,6 @@
 # KATAKURI_MD 
 
-img sec="https://imgur.com/a/8wGTVoo"
+<img sec="https://imgur.com/a/8wGTVoo"/>
 
 ## Overview
 KATAKURI_MD is a simple and efficient WhatsApp bot designed to provide seamless interaction with users. This bot aims to enhance user experience by offering various functionalities and responses to user queries.
