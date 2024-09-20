@@ -1,27 +1,28 @@
- # KATAKURI_MD
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ KATAKURI_+MD★⃝•;MULTI-DEVICE+WHATSAPP+BOT;ARISED+BY+KATAKURI." alt="Typing SVG" /></a>
- </p>
-<p align="center">
-<img src="https://imgur.com/a/8wGTVoo"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{STAR-KING0}/count.svg" alt="STAR-KING0 :: Visitor's Count" /></p>
-<p align="center">
-<a href="https://github.com/STAR-KING0/followers"><img title="Followers" src="https://img.shields.io/github/followers/STAR-KING0?color=red&style=flat-square"></a>
-<a href="https://github.com/STAR-KING0/Queen_Alya/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/STAR-KING0/QUEEN_ALYA?color=blue&style=flat-square"></a>
-<a href="https://github.com/STAR-KING0/Queen_Alya/network/members"><img title="Forks" src="https://img.shields.io/github/forks/STAR-KING0/QUEEN_ALYA?color=red&style=flat-square"></a>
-<a href="https://github.com/STAR-KING0/Queen_Alya/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/STAR-KING0/QUEEN_ALYA?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/STAR-KING0/Queen_Alya/"><img title="Size" src="https://img.shields.io/github/repo-size/STAR-KING0/QUEEN_ALYA?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSTAR-KING0%2FQueen_Alya&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/STAR-KING0/Queen_Alya/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-    </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
+# KATAKURI_MD 
 
-## KATAKURI_MD Deployment Methods
+![KATAKURI_MD Bot](https://imgur.com/a/8wGTVoo)
+
+## Overview
+KATAKURI_MD is a simple and efficient WhatsApp bot designed to provide seamless interaction with users. This bot aims to enhance user experience by offering various functionalities and responses to user queries.
+
+## Features
+- **Automated Responses:** Receive instant replies to your messages.
+- **Custom Commands:** Use predefined commands to perform specific actions.
+- **Interactive Interface:** Engage in conversations with the bot for a personalized experience.
+- **Quick Setup:** Easily deploy the bot and start using it right away.
+- **Efficient Communication:** Communicate effortlessly with the bot for a smooth user experience.
+
+## Usage
+To start interacting with KATAKURI_MD, simply add the bot to your WhatsApp contact list and send a message to initiate a conversation. Explore the various commands available to make the most out of your interaction with the bot.
+
+## Getting Started
+To set up KATAKURI_MD on your WhatsApp, follow these steps:
+1. Clone the repository.
+2. Install the necessary dependencies.
+3. Configure the bot settings.
+4. Deploy the bot to your desired platform.
+
+ ## KATAKURI_MD Deployment Methods
 
 ### 1. FORK THIS REPO
 
@@ -103,4 +104,6 @@ SUPPORT CHANNEL: <a href="[https://whatsapp.com/channel/0029Vaf5x0eHFxP7JvSRRn1g
 ### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/boru-to)
 <b>Version -> 2.0.0</b>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
+ 
